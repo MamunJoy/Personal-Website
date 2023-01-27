@@ -2,6 +2,10 @@ body{
     font-family: 'Josefin Sans', sans-serif;
     margin: 0px;
 }
+h1{
+    font-size: 50px;
+    text-align: center;
+}
 h2{
     font-size: 40px;
 }
@@ -40,5 +44,14 @@ section{
 }
 .second-baner{
     background-image: url("/biography-bg.png");
+    background-repeat: no-repeat;
+}
+.my-work{
+    float: left;
+    width: 30%;
+    margin-left: 28px;
+}
+.work-part{
+    background-image: url("/latest-work-bg.png");
     background-repeat: no-repeat;
 }
