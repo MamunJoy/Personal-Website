@@ -36,6 +36,7 @@ p{
 .top-banner{
     background-image: url("/header-bg.png"); 
     background-repeat: no-repeat;
+    height: 300px;
 }
 section{
     height: 400px;
@@ -45,6 +46,7 @@ section{
 .second-baner{
     background-image: url("/biography-bg.png");
     background-repeat: no-repeat;
+    height: 300px;
 }
 .my-work{
     float: left;
@@ -54,4 +56,36 @@ section{
 .work-part{
     background-image: url("/latest-work-bg.png");
     background-repeat: no-repeat;
+    height: 150px;
 }
+.client-details{
+ text-align: center;
+ height: 200px;
+ background-image: url("/footer-bg.png");
+ background-repeat: no-repeat;
+ height: 250px;
+
+}
+.black-color{
+    color: black;
+}
+.box-1{
+    height: 250px;
+}
+.box-2{
+    padding-left: 120px;
+    background-color:crimson;
+    height: 200px;
+    
+    
+}
+.box-2 a{
+    text-decoration: none;
+    font-size: 30px;
+}
+footer{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+
