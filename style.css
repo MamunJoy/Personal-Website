@@ -73,15 +73,21 @@ section{
     height: 250px;
 }
 .box-2{
-    padding-left: 120px;
     background-color:crimson;
+    width: 500px;
     height: 200px;
+    border: 5px solid crimson;
+    vertical-align:middle;
+    margin-left: 500px;
+    border-radius: 10px;
     
     
 }
 .box-2 a{
     text-decoration: none;
-    font-size: 30px;
+    font-size: 25px;
+    color: whitesmoke;
+    
 }
 footer{
     text-align: center;
